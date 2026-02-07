@@ -1,5 +1,3 @@
-cdk/bin/*
-*.md
 python_backend/dist/*
 python_backend/.venv/*
 python_backend/*.zip
