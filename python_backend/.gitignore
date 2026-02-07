@@ -1,0 +1,8 @@
+.venv/
+dist/
+__pycache__/
+*.pyc
+.coverage
+deployment.zip
+.mypy_cache/
+.pytest_cache/
